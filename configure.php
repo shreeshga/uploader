@@ -3,7 +3,7 @@ require_once 'facebook.php';
 
 $app_id = "232348633455049";
 $app_key = "";
-$app_secret = "6457e366251ed11417d59b1efdb4b3f9";
+$app_secret = "b03989d5a2037453be10f779a06b165e";
 $canvas_url = "http://oml.in/shreesh/apps/FB/pic_upload.php";
 
 $facebook = new Facebook(array(
